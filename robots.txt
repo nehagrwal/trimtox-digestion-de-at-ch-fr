@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/trimtox-digestion-de-at-ch-fr/sitemap.xml
+Sitemap: https://trimtox-digestion-de-at-ch-fr.vercel.app/sitemap-vercel.xml
+Sitemap: https://trimtox-digestion-de-at-ch-fr.pages.dev/sitemap-cloudflare.xml
